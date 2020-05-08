@@ -7,7 +7,7 @@ else {
     
     myButton.onclick = function () {
         if(myButton == null) return;
-        alert(myButton.value);
+        alert(myButton.);
     }
 
 }
