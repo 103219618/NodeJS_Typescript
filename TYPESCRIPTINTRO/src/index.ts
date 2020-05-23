@@ -44,8 +44,5 @@ else {
                 elements.innerHTML = "";
             }
         }
-
-
-
     }
 }
